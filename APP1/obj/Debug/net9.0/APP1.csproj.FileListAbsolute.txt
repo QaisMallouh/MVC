@@ -225,3 +225,4 @@ D:\ASP\APP1\APP1\obj\Debug\net9.0\refint\APP1.dll
 D:\ASP\APP1\APP1\obj\Debug\net9.0\APP1.pdb
 D:\ASP\APP1\APP1\obj\Debug\net9.0\APP1.genruntimeconfig.cache
 D:\ASP\APP1\APP1\obj\Debug\net9.0\ref\APP1.dll
+D:\ASP\APP1\APP1\obj\Debug\net9.0\APP1.sourcelink.json
