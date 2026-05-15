@@ -1,0 +1,13 @@
+﻿@model List<User>
+<h1>index-users</h1>
+@if (!Model.Any())
+{
+    <p>No users found.</p>
+}else{
+
+
+@foreach (var user in Model)
+{
+    <p>Name : @user.Name</p>
+}
+}
